@@ -1,1 +1,2 @@
 # Watta2xTops.github.io
+My name is Gavin Edward M. Rivera, currently a second year MMCM studnet in the CCIS BS CS course. Technology and its advancements in recent years has inspired me to persue this course. The passion to create projects and delve into other areas in data science and technology is something I wanted to persue in life, from building intelligent systems to diving into the world of data science, artificial intelligence, and software development. I’m especially passionate about creating meaningful, real-world solutions that make a difference.
